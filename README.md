@@ -7,7 +7,7 @@ There are two data files (.csv)
 
 Question : Write an algorithm or a group of algorithms to match the misspelt city name with the correct city name and return the list of unique ids for each misspelt city name.
 
-For example : Correct Data -> (Bangalore, India, 101) and say the incorrect data is (Banhakorg, India). Then the matching algorithm should return 101 for this example.
+For example : Correct Data -> (Bangalore, India, 101) and say for "Bangalore" the misspelt name is (Banhakorg, India). Then the matching algorithm should return 101 for this example.
 
 
 
